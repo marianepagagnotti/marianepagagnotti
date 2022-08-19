@@ -15,6 +15,6 @@
   
   ##
   
-  ![Snake animation](https://github.com/marianepagagnotti/marianepagagnotti/blob/output/github-contribution-grid-snake.svg)
+  
   
 
